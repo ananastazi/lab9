@@ -1,0 +1,33 @@
+﻿<Window x:Class="MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label>
+                a = 
+            </Label>
+            <TextBox x:Name="a" Text="{Binding Input1, UpdateSourceTrigger=PropertyChanged}" ></TextBox>
+
+            <Label>
+                b =
+            </Label>
+            <TextBox x:Name="b" Text="{Binding Input2, UpdateSourceTrigger=PropertyChanged}" ></TextBox>
+
+            <Label>
+                angle =
+            </Label>
+            <TextBox x:Name="angle" Text="{Binding Input3, UpdateSourceTrigger=PropertyChanged}" ></TextBox>
+
+            <Label x:Name="result1">Height: </Label>
+            <TextBox x:Name="res1" Text="{Binding Res1, Mode=OneWay}" IsReadOnly="True"></TextBox>
+
+            <Label x:Name="result2">Square:</Label>
+            <TextBox x:Name="res2" Text="{Binding Res2, Mode=OneWay}" IsReadOnly="True"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\bin\Debug\MVC.exe.config
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\bin\Debug\MVC.exe
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\bin\Debug\MVC.pdb
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\obj\Debug\MVC.csproj.AssemblyReference.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\obj\Debug\MVC.Form1.resources
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\obj\Debug\MVC.exe
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\mvc_2\MVC\MVC\obj\Debug\MVC.pdb

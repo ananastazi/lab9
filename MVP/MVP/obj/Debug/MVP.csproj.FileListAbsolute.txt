@@ -1,0 +1,10 @@
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\bin\Debug\MVP.exe.config
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\bin\Debug\MVP.exe
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\bin\Debug\MVP.pdb
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\obj\Debug\MVP.csproj.AssemblyReference.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\obj\Debug\MVP.Form1.resources
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\obj\Debug\MVP.Properties.Resources.resources
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\obj\Debug\MVP.exe
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVP\MVP\obj\Debug\MVP.pdb

@@ -1,0 +1,15 @@
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\bin\Debug\MVVM.exe.config
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\bin\Debug\MVVM.exe
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\bin\Debug\MVVM.pdb
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM.csproj.AssemblyReference.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MainWindow.g.cs
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\App.g.cs
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MainWindow.baml
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM.g.resources
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM.exe
+D:\Personal\Uni\3_point\2_sem\Проектування_ІС\lab9\MVVM\MVVM\obj\Debug\MVVM.pdb
