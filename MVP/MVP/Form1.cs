@@ -78,22 +78,47 @@ namespace MVP
 
         void IParallelogramView.SetHeight(double height)
         {
-            lblResult.Text = height.ToString();
+            lblResult.Text = $"{height:N2}";
         }
 
         void IParallelogramView.SetSquare(double square)
         {
-            lblResult.Text = square.ToString();
+            lblResult.Text = $"{square:N2}";
+        }
+
+        void IParallelogramView.DisplayError(string message)
+        {
+            MessageBox.Show(message, "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void clickOnButton1(object sender, EventArgs e)
         {
-            presenter.LoadParallelogramHeight(Convert.ToDouble(txtA.Text), Convert.ToDouble(txtB.Text), Convert.ToDouble(txtAngle.Text));
+            try
+            {
+                var a = Convert.ToDouble(txtA.Text);
+                var b = Convert.ToDouble(txtB.Text);
+                var angle = Convert.ToDouble(txtAngle.Text);
+                presenter.LoadParallelogramHeight(a, b, angle);
+            }
+            catch (FormatException)
+            {
+                ((IParallelogramView)this).DisplayError("Please enter valid numbers for all fields.");
+            }
         }
 
         private void clickOnButton2(object sender, EventArgs e)
         {
-            presenter.LoadParallelogramSquare(Convert.ToDouble(txtA.Text), Convert.ToDouble(txtB.Text), Convert.ToDouble(txtAngle.Text));
+            try
+            {
+                var a = Convert.ToDouble(txtA.Text);
+                var b = Convert.ToDouble(txtB.Text);
+                var angle = Convert.ToDouble(txtAngle.Text);
+                presenter.LoadParallelogramSquare(a, b, angle);
+            }
+            catch (FormatException)
+            {
+                ((IParallelogramView)this).DisplayError("Please enter valid numbers for all fields.");
+            }
         }
     }
 }

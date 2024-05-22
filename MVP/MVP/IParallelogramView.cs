@@ -10,5 +10,6 @@ namespace MVP
     {
         void SetHeight(double height);
         void SetSquare(double square);
+        void DisplayError(string message);
     }
 }

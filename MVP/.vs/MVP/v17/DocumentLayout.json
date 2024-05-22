@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\mvp\\parallelogrampresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\parallelogrampresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|d:\\personal\\uni\\3_point\\2_sem\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0456\u0441\\lab9\\mvp\\mvp\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|d:\\personal\\uni\\3_point\\2_sem\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0456\u0441\\lab9\\mvp\\mvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\mvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|d:\\personal\\uni\\3_point\\2_sem\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0456\u0441\\lab9\\mvp\\mvp\\iparallelogramview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\iparallelogramview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|d:\\personal\\uni\\3_point\\2_sem\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0456\u0441\\lab9\\mvp\\mvp\\parallelogrampresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\parallelogrampresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|d:\\personal\\uni\\3_point\\2_sem\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0456\u0441\\lab9\\mvp\\mvp\\iparallelogrammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\mvp\\iparallelogrammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\iparallelogrammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|d:\\personal\\uni\\3_point\\2_sem\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0456\u0441\\lab9\\mvp\\mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|d:\\personal\\uni\\3_point\\2_sem\\\u043F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0456\u0441\\lab9\\mvp\\mvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\mvp\\iparallelogramview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\iparallelogramview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\mvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5F401783-B7E1-474F-B494-ABE40DE0FA47}|MVP\\MVP.csproj|solutionrelative:mvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\Form1.cs",
               "RelativeDocumentMoniker": "MVP\\Form1.cs",
               "ToolTip": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\Form1.cs",
               "RelativeToolTip": "MVP\\Form1.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFgAAAAUAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAqwFMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T11:22:16.167Z",
               "IsPinned": true,
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\Program.cs",
               "RelativeDocumentMoniker": "MVP\\Program.cs",
               "ToolTip": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\Program.cs",
               "RelativeToolTip": "MVP\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T11:21:56.902Z",
               "IsPinned": true,
@@ -83,13 +83,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IParallelogramModel.cs",
               "DocumentMoniker": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\IParallelogramModel.cs",
               "RelativeDocumentMoniker": "MVP\\IParallelogramModel.cs",
               "ToolTip": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\IParallelogramModel.cs",
               "RelativeToolTip": "MVP\\IParallelogramModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T11:23:14.99Z",
               "IsPinned": true,
@@ -97,39 +97,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IParallelogramView.cs",
               "DocumentMoniker": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\IParallelogramView.cs",
               "RelativeDocumentMoniker": "MVP\\IParallelogramView.cs",
               "ToolTip": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\IParallelogramView.cs",
               "RelativeToolTip": "MVP\\IParallelogramView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T11:30:04.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ParallelogramPresenter.cs",
               "DocumentMoniker": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\ParallelogramPresenter.cs",
               "RelativeDocumentMoniker": "MVP\\ParallelogramPresenter.cs",
               "ToolTip": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\ParallelogramPresenter.cs",
               "RelativeToolTip": "MVP\\ParallelogramPresenter.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBsAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T11:29:14.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Parallelogram.cs",
               "DocumentMoniker": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\Parallelogram.cs",
               "RelativeDocumentMoniker": "MVP\\Parallelogram.cs",
               "ToolTip": "D:\\Personal\\Uni\\3_point\\2_sem\\\u041F\u0440\u043E\u0435\u043A\u0442\u0443\u0432\u0430\u043D\u043D\u044F_\u0406\u0421\\lab9\\MVP\\MVP\\Parallelogram.cs",
               "RelativeToolTip": "MVP\\Parallelogram.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAADwvy4AAAAFAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvz0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T11:24:56.259Z",
               "EditorCaption": ""

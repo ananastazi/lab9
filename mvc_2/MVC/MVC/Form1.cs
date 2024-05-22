@@ -86,9 +86,20 @@ namespace MVC
                 var a = Convert.ToDouble(txtA.Text);
                 var b = Convert.ToDouble(txtB.Text);
                 var angle = Convert.ToDouble(txtAngle.Text);
-                lblResult.Text = controller.Question1(a, b, angle).ToString();
+                var result = controller.Question1(a, b, angle);
+                if (result.HasValue)
+                    lblResult.Text = result.Value.ToString("N2");
+                else
+                    MessageBox.Show("Invalid input for the parallelogram dimensions or angle.");
             }
-            catch { MessageBox.Show("Error input"); }
+            catch (FormatException)
+            {
+                MessageBox.Show("Please enter valid numbers.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("An error occurred: " + ex.Message);
+            }
         }
 
         private void clickOnButton2(object sender, EventArgs e)
@@ -98,9 +109,21 @@ namespace MVC
                 var a = Convert.ToDouble(txtA.Text);
                 var b = Convert.ToDouble(txtB.Text);
                 var angle = Convert.ToDouble(txtAngle.Text);
-                lblResult.Text = controller.Question2(a, b, angle).ToString();
+                var result = controller.Question2(a, b, angle);
+                if (result.HasValue)
+                    lblResult.Text = result.Value.ToString("N2");
+                else
+                    MessageBox.Show("Invalid input for the parallelogram dimensions or angle.");
             }
-            catch { MessageBox.Show("Error input"); }
+            catch (FormatException)
+            {
+                MessageBox.Show("Please enter valid numbers.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("An error occurred: " + ex.Message);
+            }
         }
+
     }
 }

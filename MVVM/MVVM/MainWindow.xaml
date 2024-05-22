@@ -8,26 +8,18 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            <Label>
-                a = 
-            </Label>
-            <TextBox x:Name="a" Text="{Binding Input1, UpdateSourceTrigger=PropertyChanged}" ></TextBox>
-
-            <Label>
-                b =
-            </Label>
-            <TextBox x:Name="b" Text="{Binding Input2, UpdateSourceTrigger=PropertyChanged}" ></TextBox>
-
-            <Label>
-                angle =
-            </Label>
-            <TextBox x:Name="angle" Text="{Binding Input3, UpdateSourceTrigger=PropertyChanged}" ></TextBox>
-
-            <Label x:Name="result1">Height: </Label>
-            <TextBox x:Name="res1" Text="{Binding Res1, Mode=OneWay}" IsReadOnly="True"></TextBox>
-
-            <Label x:Name="result2">Square:</Label>
-            <TextBox x:Name="res2" Text="{Binding Res2, Mode=OneWay}" IsReadOnly="True"></TextBox>
+            <Label>a =</Label>
+            <TextBox Text="{Binding Input1, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label>b =</Label>
+            <TextBox Text="{Binding Input2, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label>angle =</Label>
+            <TextBox Text="{Binding Input3, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label>Height:</Label>
+            <TextBox Text="{Binding Res1, Mode=OneWay}" IsReadOnly="True"></TextBox>
+            <Label>Square:</Label>
+            <TextBox Text="{Binding Res2, Mode=OneWay}" IsReadOnly="True"></TextBox>
+            <Label Content="{Binding ErrorMessage}" Foreground="Red"/>
         </StackPanel>
     </Grid>
 </Window>
+

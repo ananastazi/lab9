@@ -8,16 +8,31 @@ namespace MVC
 {
     class ControllerParallelogram
     {
-        public double Question1(double a, double b, double angle)
+        public double? Question1(double a, double b, double angle)
         {
-            var parallelogram = new Parallelogram(a, b, angle);
-            return parallelogram.calculateHeight();
+            try
+            {
+                var parallelogram = new Parallelogram(a, b, angle);
+                return parallelogram.calculateHeight();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
 
-        public double Question2(double a, double b, double angle)
+        public double? Question2(double a, double b, double angle)
         {
-            var parallelogram = new Parallelogram(a, b, angle);
-            return parallelogram.calculateSquare();
+            try
+            {
+                var parallelogram = new Parallelogram(a, b, angle);
+                return parallelogram.calculateSquare();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
     }
+
 }
